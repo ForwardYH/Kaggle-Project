@@ -1,6 +1,6 @@
 # Sentiment Analysis on Movie Reviews
 
-- 프로젝트 기간 : 2017-05-03 ~ 2017-06-02
+- 프로젝트 기간 : 2017-05-03 ~ 2017-06-26
 
 "There's a thin line between likably old-fashioned and fuddy-duddy, and The Count of Monte Cristo ... never quite settles on either side."
 
@@ -19,8 +19,8 @@ The Rotten Tomatoes movie review dataset is a corpus of movie reviews used for s
 
 # Description
 
-- 1. Data Exploration & Textmining - Sentiment Analysis.ipynb : 영화 리뷰에 대한 텍스트 마이닝
-- 2. Preprocessing & Modeling - Sentiment Analysis.ipynb : 데이터 전처리
-- 2-1. Make Corpus.ipynb : Harvard corpus 이용하여 corpus 구축
-- 2-2. Corpus Adaptation & Modeling : 기존 데이터에 corpus 추가하여 모델링
-- 3. Final Test - Sentiment Analysis.ipynb : Kaggle Submission
+- Data Exploration & Textmining - Sentiment Analysis.ipynb : 영화 리뷰에 대한 텍스트 마이닝
+- Preprocessing & Modeling - Sentiment Analysis.ipynb : 데이터 전처리
+- Make Corpus.ipynb : Harvard corpus 이용하여 corpus 구축
+- Corpus Adaptation & Modeling : 기존 데이터에 corpus 추가하여 모델링
+- Final Test - Sentiment Analysis.ipynb : Kaggle Submission
