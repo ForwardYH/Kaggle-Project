@@ -19,7 +19,7 @@ The Rotten Tomatoes movie review dataset is a corpus of movie reviews used for s
 
 # File Description
 
-- Data Exploration & Textmining - Sentiment Analysis.ipynb : 영화 리뷰에 대한 텍스트 마이닝
+- Data Exploration & Textmining - Sentiment Analysis.ipynb : 영화 리뷰에 대한 데이터 탐색 및 텍스트 마이닝
 - Preprocessing & Modeling - Sentiment Analysis.ipynb : 데이터 전처리
 - Make Corpus.ipynb : Harvard corpus 이용하여 corpus 구축
 - Corpus Adaptation & Modeling : 기존 데이터에 corpus 추가하여 모델링
