@@ -1,4 +1,5 @@
 # Sentiment Analysis on Movie Reviews
+  * https://www.kaggle.com/c/sentiment-analysis-on-movie-reviews
 
 - 프로젝트 기간 : 2017-05-03 ~ 2017-06-26
 
